@@ -1,4 +1,10 @@
 ### Hi there 👋
+### This is bizyutyu's Repository!!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizyutyu)](https://github.com/anuraghazra/github-readme-stats)
+## 
+## 参考にさせてもらったページ
+- GitHubProfileのページを可能な限りキラキラさせる方法（[https://zenn.dev/yutakatay/articles/kirakira-github-profile](url)）
+- 
 
 <!--
 **bizyutyu/bizyutyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
