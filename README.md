@@ -4,7 +4,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=bizyutyu)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 参考にさせてもらったページ
+## Reference
 - GitHubProfileのページを可能な限りキラキラさせる方法（[https://zenn.dev/yutakatay/articles/kirakira-github-profile](url)）
 - GitHubプロフィールをイケイケにする🏆トロフィー(活動実績)が表示できるサービスを開発した話（[https://qiita.com/ryo-ma/items/c6298020098cb631f46e](url)）
 
