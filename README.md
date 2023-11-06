@@ -4,11 +4,11 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bizyutyu)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bizyutyu)](https://github.com/ryo-ma/github-profile-trophy&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)
+[![trophy](https://github-profile-trophy.vercel.app/?username=bizyutyu)](https://github.com/ryo-ma/github-profile-trophy&rank=-?)
 
 ## Reference
-- [参考ページ 1](https://github.com/ryo-ma/github-profile-trophy#filter-by-ranks)
-- [参考ページ 2](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [参考ページ1](https://github.com/ryo-ma/github-profile-trophy#filter-by-ranks)
+- [参考ページ1](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 <!--
