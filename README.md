@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f4a7b9,100:4a4a4a&height=200&section=header&text=bizyutyu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f4a7b9,100:4a4a4a&height=200&section=header&text=bizyutyu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E3%81%AB%E6%80%92%E3%82%89%E3%82%8C%E3%81%AA%E3%81%8C%E3%82%89%E7%94%9F%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%E3%80%82&descAlignY=60&descSize=20&fontFamily=Noto+Sans+JP)
 
 <div align="center">
 
