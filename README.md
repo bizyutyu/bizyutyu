@@ -22,7 +22,9 @@
 
 <div align="center">
 
-![★ Favorites](https://img.shields.io/badge/%E2%98%85-Favorites-f4a7b9?style=flat-square) [![Haskell](https://skillicons.dev/icons?i=haskell)](https://skillicons.dev)
+![★ Favorites](https://img.shields.io/badge/%E2%98%85-Favorites-f4a7b9?style=flat-square)
+
+[![Haskell](https://skillicons.dev/icons?i=haskell)](https://skillicons.dev)
 
 [![Skills](https://skillicons.dev/icons?i=rust,py,js,java,scala,kotlin,cpp,cs,c,php,html,css,postgres&perline=8)](https://skillicons.dev)
 
