@@ -41,10 +41,6 @@
   <img src="https://streak-stats.demolab.com?user=bizyutyu&background=1a1215&border=4a4a4a&ring=f4a7b9&fire=e8a5b3&currStreakNum=f4a7b9&sideNums=e8a5b3&currStreakLabel=c97ea8&sideLabels=c9b8bc&dates=9a8a8e&locale=ja" />
 </div>
 
----
-
-## Summary
-
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bizyutyu&theme=github_dark)
@@ -53,7 +49,6 @@
 
 <div align="center">
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bizyutyu&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bizyutyu&theme=github_dark)
 
 </div>
