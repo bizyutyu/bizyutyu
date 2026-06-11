@@ -33,24 +33,11 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bizyutyu&show_icons=true&bg_color=1a1215&title_color=f4a7b9&text_color=c9b8bc&icon_color=e8a5b3&border_color=4a4a4a&rank_icon=github&locale=ja" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bizyutyu&layout=compact&bg_color=1a1215&title_color=f4a7b9&text_color=c9b8bc&border_color=4a4a4a&locale=ja" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bizyutyu&show_icons=true&bg_color=1a1215&title_color=f4a7b9&text_color=c9b8bc&icon_color=e8a5b3&border_color=4a4a4a&rank_icon=github&locale=ja" />
 </div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bizyutyu&background=1a1215&border=4a4a4a&ring=f4a7b9&fire=e8a5b3&currStreakNum=f4a7b9&sideNums=e8a5b3&currStreakLabel=c97ea8&sideLabels=c9b8bc&dates=9a8a8e&locale=ja" />
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bizyutyu&theme=github_dark)
-
-</div>
-
-<div align="center">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bizyutyu&theme=github_dark)
-
 </div>
 
 ---
