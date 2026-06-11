@@ -1,27 +1,84 @@
-### Hi there 👋
-### This is bizyutyu's Repository!!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bizyutyu)](https://github.com/anuraghazra/github-readme-stats)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f4a7b9,100:4a4a4a&height=200&section=header&text=bizyutyu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descAlignY=60&descSize=20)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bizyutyu)
+<div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bizyutyu)](https://github.com/ryo-ma/github-profile-trophy&rank=-?)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=C97EA8&center=true&vCenter=true&random=false&width=600&lines=Hello%2C+World!;Full-Stack+Engineer;Open+Source+Enthusiast)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## Tech Stack
+
+#### Active
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=go,ts,react,nestjs,aws,docker,terraform,mysql,github&perline=9)](https://skillicons.dev)
+
+</div>
+
+#### Experience
+
+<div align="center">
+
+![★ Favorites](https://img.shields.io/badge/%E2%98%85-Favorites-f4a7b9?style=flat-square) [![Haskell](https://skillicons.dev/icons?i=haskell)](https://skillicons.dev)
+
+[![Skills](https://skillicons.dev/icons?i=rust,py,js,java,scala,kotlin,cpp,cs,c,php,html,css,postgres&perline=8)](https://skillicons.dev)
+
+</div>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bizyutyu&show_icons=true&bg_color=1a1215&title_color=f4a7b9&text_color=c9b8bc&icon_color=e8a5b3&border_color=4a4a4a&rank_icon=github&locale=ja" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bizyutyu&layout=compact&bg_color=1a1215&title_color=f4a7b9&text_color=c9b8bc&border_color=4a4a4a&locale=ja" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bizyutyu&background=1a1215&border=4a4a4a&ring=f4a7b9&fire=e8a5b3&currStreakNum=f4a7b9&sideNums=e8a5b3&currStreakLabel=c97ea8&sideLabels=c9b8bc&dates=9a8a8e&locale=ja" />
+</div>
+
+---
+
+## Summary
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bizyutyu&theme=github_dark)
+
+</div>
+
+<div align="center">
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bizyutyu&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bizyutyu&theme=github_dark)
+
+</div>
+
+---
+
+## Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bizyutyu/bizyutyu/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bizyutyu/bizyutyu/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bizyutyu/bizyutyu/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
 
 ## Reference
-- [参考ページ1](https://github.com/ryo-ma/github-profile-trophy#filter-by-ranks)
-- [参考ページ1](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+- [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+- [skill-icons](https://github.com/tandpfun/skill-icons)
+- [capsule-render](https://github.com/kyechan99/capsule-render)
+- [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+- [snk](https://github.com/Platane/snk)
 
-
-<!--
-**bizyutyu/bizyutyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:f4a7b9&height=120&section=footer)
