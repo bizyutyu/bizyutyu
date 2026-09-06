@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:f4a7b9,100:4a4a4a&height=220&section=header&text=bizyutyu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9%E3%81%AB%E6%80%92%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%9F%E3%81%84%E3%80%82&descAlignY=65&descSize=20&fontFamily=Noto+Sans+JP)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:f4a7b9,100:4a4a4a&height=220&section=header&text=bizyutyu&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=50&fontFamily=Noto+Sans+JP)
 
 <div align="center">
 
@@ -35,7 +35,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bizyutyu&show_icons=true&bg_color=1a1215&title_color=f4a7b9&text_color=c9b8bc&icon_color=e8a5b3&border_color=4a4a4a&rank_icon=github&locale=ja" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bizyutyu&show_icons=true&bg_color=1a1215&title_color=f4a7b9&text_color=c9b8bc&icon_color=e8a5b3&border_color=4a4a4a&rank_icon=github&locale=ja" />
 </div>
 
 <div align="center">
@@ -57,7 +57,7 @@
 ---
 
 ## Reference
-- [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+- [github-stats-extended](https://github.com/stats-organization/github-stats-extended)
 - [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 - [github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [skill-icons](https://github.com/tandpfun/skill-icons)
